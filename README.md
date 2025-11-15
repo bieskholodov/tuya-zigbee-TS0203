@@ -1,6 +1,6 @@
 Zigdee 16 pcs relay esp32c6 Home Assistant esphome
 
-![Screenshot](https://github.com/bieskholodov/zigbee-rele/blob/main/16-Kanal-Relais-Modul-12V-01_600x600%402x.png)
+![Screenshot](https://github.com/bieskholodov/zigbee-rele/blob/H4f64c5dc4e0944449f407a079b4fa9550.jpg_720x720q50.avif)
 
 #####
 Zigbee Home Automation
